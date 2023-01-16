@@ -1,8 +1,5 @@
 <<<<<<< HEAD
 # Who am I: Paula Alvarez
-=======
-cambio a las 17:22. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque viverra laoreet lorem et dapibus. Integer auctor dignissim egestas. Ut id purus neque. Pellentesque imperdiet lacus in libero laoreet, at tempus felis tristique. Cras fermentum erat a dui vulputate gravida. Nulla aliquet nisi interdum nulla pretium, ac vestibulum diam congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus lacus risus, sodales vitae viverra quis, maximus ac ipsum. Sed consequat viverra mattis. Curabitur iaculis varius mollis.
->>>>>>> 011df187977f325f191ce168ee501db0d3143851
 
 * Where are you from? Madrid
 * What do you do? I am a Sexologist and a Pedagogue.
